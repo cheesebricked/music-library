@@ -1,0 +1,23 @@
+{"releases": [
+  {
+    "comments": ["comment1", "comment2"],
+    "artist": "artist1",
+    "genres": ["genre1"],
+    "name": "release1",
+    "rating": 5
+  },
+  {
+    "comments": [],
+    "artist": "h",
+    "genres": ["no genre"],
+    "name": "pooper",
+    "rating": 10
+  },
+  {
+    "comments": [],
+    "artist": "New Artist",
+    "genres": ["New Genre", "New Genre 2"],
+    "name": "New Name",
+    "rating": 0
+  }
+]}

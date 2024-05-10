@@ -1,0 +1,25 @@
+{"releases": [
+    {
+        "comments": [
+            "comment1",
+            "comment2"
+        ],
+        "artist": "john lennon",
+        "genres": [
+            "genre2",
+            "rock and roll babyyyy"
+        ],
+        "name": "imagine",
+        "rating": 2
+    },
+    {
+        "comments": [
+            "commented",
+            "no comment"
+        ],
+        "artist": "h",
+        "genres": ["no genre"],
+        "name": "pooper",
+        "rating": 9
+    }
+]}
